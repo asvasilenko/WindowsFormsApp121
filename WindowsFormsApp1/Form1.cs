@@ -43,9 +43,9 @@ namespace WindowsFormsApp1
                 if (c > 0)
                 {
 
-                    resultLabel.Text = ($"Плотность население  {c} ");
+                    resultLabel.Text = ($"гипотенуза  {c} ");
                 }
-                else resultLabel.Text = "Нет населения";
+                else resultLabel.Text = "Нет гипотенузы";
             }
 
         }
