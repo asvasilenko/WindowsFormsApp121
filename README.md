@@ -1,5 +1,4 @@
-# WindowsFormsApp1
-Вариант 14  
-Даны катеты прямоугольного треугольника. Найти его гипотенузу.
-![image](https://user-images.githubusercontent.com/90207058/163320438-b92ae6d2-3b80-42aa-9c27-c24d6269d937.png)
+# WindowsFormsApp1 
+Даны основания и высота равнобедренной трапеции. Найти периметр трапе-ции.
+![image](https://user-images.githubusercontent.com/92932295/163545069-92a4fe82-4b47-42d2-b99d-5e760f9f27ab.png)
 
